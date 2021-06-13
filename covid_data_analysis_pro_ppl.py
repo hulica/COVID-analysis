@@ -2,8 +2,6 @@
 # https://github.com/CSSEGISandData/COVID-19
 # https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 # Thanks to them for making this data set public.
-# You can find data beyond cumulative cases there!
-
 
 import csv
 import matplotlib.pyplot as plt
