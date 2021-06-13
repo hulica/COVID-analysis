@@ -4,15 +4,6 @@
 # Thanks to them for making this data set public.
 # You can find data beyond cumulative cases there!
 
-"""
-Test your code by analysing total confirmed cases over time.
-Each line in the file represents one day. The first value is
-confirmed cases on January 22nd. The number of confirmed cases
-is "cumulative" meaning that it is the total number of cases up
-until the current day.
-"""
-# this version gets online data from Johns Hopkins's GitHub and calculates per capita daily average
-# global and USA cases are in two separate files
 
 import csv
 import matplotlib.pyplot as plt
